@@ -17,12 +17,12 @@
 <!-- aqui ficarão as badges -->
 
 <p align="center">
- <a href="#Título do projeto">Título do projeto</a> •
- <a href="##Descrição do projeto">Descrição do projeto</a> • 
- <a href="###Features">Features</a> • 
- <a href="###Pré-requisitos">Pré-requisitos</a> • 	
- <a href="###tecnologias">Tecnologias</a> •    
- <a href="###autor">Autor</a>
+ <a href="#título-do-projeto">Título do projeto</a> •
+ <a href="#descrição-do-projeto">Descrição do projeto</a> • 
+ <a href="#features">Features</a> • 
+ <a href="#pré-requisitos">Pré-requisitos</a> • 	
+ <a href="#-tecnologias">Tecnologias</a> •    
+ <a href="#autor">Autor</a>
 </p>
 
 <h4 align="center"> 

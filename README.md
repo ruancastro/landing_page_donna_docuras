@@ -1,5 +1,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c0404a76-9b2e-4572-930c-f2f2bb90948c/deploy-status)](https://app.netlify.com/sites/donnadocuras/deploys)
+![License Status](https://img.shields.io/github/license/ruancastro/landing_page_donna_docuras)
+
 # Título do projeto
 <h1 align="center">Landing Page da Donna Doçuras</h1>
 
